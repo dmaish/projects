@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 
+=======
+# projects
+>>>>>>> 6a02dccdacf8b07aa479e7c25a9f5c31a20b5e99
 #Fuch's restaurant
 
 ###features
@@ -51,6 +55,7 @@ http://thegothculture.bitballoon.com/
 
 ####contributors:
   *Daniel Maina
+<<<<<<< HEAD
 
 #portfolio
 
@@ -76,3 +81,5 @@ http://maishportfolio.bitballoon.com/
 
 ####contributors:
   *Daniel Maina
+=======
+>>>>>>> 6a02dccdacf8b07aa479e7c25a9f5c31a20b5e99
