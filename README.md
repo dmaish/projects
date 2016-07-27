@@ -8,14 +8,14 @@ https://github.com/dmaish/portfolio
 http://maishportfolio.bitballoon.com/
 
 ###Tools:
-  *codepen
-  *foundation6
-  *pixabay
-  *google
+  + codepen
+  + foundation6
+  + pixabay
+  + google
 
 ####contributors:
 
-  *Daniel Maina
+  + Daniel Maina
 
 
 
@@ -28,10 +28,10 @@ http://maishportfolio.bitballoon.com/
 
 ####features
 
- *title bar. 
- *images slider.
- *block-grid with gallery.
- *footer.
+ + title bar. 
+ + images slider.
+ + block-grid with gallery.
+ + footer.
 ######link(bitballoon)
 
  http://myproject1.bitballoon.com/
@@ -42,36 +42,37 @@ http://maishportfolio.bitballoon.com/
 
 #####Tools
 
-*foundation6 
-*stack overflow 
-*pixabay
++ foundation6 
++ stack overflow 
++ pixabay
 
 #####contributors:
 
-Daniel Maina.
++ Daniel Maina.
 
 
 ###2.thegothculturedesigns
 
 ####Features:
-  *nav bar
-  *main background image
-  *about section
-  *portfolio
-  *contacts
+  
+  + nav bar
+  + main background image
+  + about section
+  + portfolio
+  + contacts
 
 ####links:
 
 #####to github codebase:https:
-//github.com/dmaish/gothculturedesigns
+http://github.com/dmaish/gothculturedesigns
 #####to bitballoon:
 http://thegothculture.bitballoon.com/
 
 ####Tools:
-  *codepen
-  *foundation6
-  *pixabay
-  *google
+  + codepen
+  + foundation6
+  + pixabay
+  + google
 
 #####contributors:
 
