@@ -31,7 +31,7 @@ http://maishportfolio.bitballoon.com/
 
 ##front-end projects
 
-###Fuch's restaurant
+###1.Fuch's restaurant
 
 ####features
 
@@ -58,7 +58,7 @@ http://maishportfolio.bitballoon.com/
 Daniel Maina.
 
 
-###thegothculturedesigns
+###2.thegothculturedesigns
 
 ####Features:
   *nav bar
