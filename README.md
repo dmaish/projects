@@ -76,6 +76,6 @@ http://thegothculture.bitballoon.com/
 
 #####contributors:
 
-  *Daniel Maina
+  + Daniel Maina
 
 
