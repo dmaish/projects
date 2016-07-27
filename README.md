@@ -1,12 +1,5 @@
 #portfolio
 
-###Features:
-  *nav bar
-  *main fixed background image
-  *about me section
-  *myprojects
-  *contacts
-
 ###links:
 
 #####to github codebase:https:
